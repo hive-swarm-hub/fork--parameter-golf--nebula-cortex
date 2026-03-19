@@ -1,5 +1,6 @@
 run_*.sh
 slurm_*
+slurm-*
 .vscode/
 results.tsv
 run.log
