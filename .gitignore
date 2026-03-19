@@ -8,3 +8,7 @@ logs/
 final_model.*
 *.ptz
 *.pt
+.hive/
+data/datasets/
+data/manifest.json
+data/tokenizers/
