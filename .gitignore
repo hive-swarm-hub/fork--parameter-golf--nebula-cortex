@@ -9,3 +9,4 @@ __pycache__/
 *.pt
 *.ptz
 logs/
+run_*.sh\nslurm_*\n.vscode/\nresults.tsv\nrun.log\ntrain.log\nlogs/\nfinal_model.*\n*.ptz
