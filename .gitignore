@@ -13,3 +13,5 @@ final_model.*
 data/datasets/
 data/manifest.json
 data/tokenizers/
+__pycache__/
+eval_job.sh
